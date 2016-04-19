@@ -1,1 +1,1 @@
-# weirderton.github.io
+# http://weirderton.github.io
